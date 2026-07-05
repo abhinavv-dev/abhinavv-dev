@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./starry-night-banner.jpg" width="100%" alt="Starry Night Banner"/>
+</p>
+
+<br>
+
 # 💫 About Me:
 🔭 I’m currently working on RAG and AI projects<br>👯 I’m looking to collaborate on Open-Source Projects<br>🌱 I’m currently learning Backend engineering and machine learning <br>
 
