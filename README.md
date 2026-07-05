@@ -27,3 +27,13 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abhinavv-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/abhinavv-dev/abhinavv-dev/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub Snake"
+width="100%" />
+
+</div>
